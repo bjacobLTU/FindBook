@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book Adviser</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_book">Find Book!</string>
+    <string name="titles"></string>
+    <string-array name="book_categories">
+        <item>fiction</item>
+        <item>non-fiction</item>
+        <item>horror</item>
+        <item>drama</item>
+    </string-array>
+</resources>
